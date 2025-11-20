@@ -1,7 +1,7 @@
 {
-  "name": "PWA Geolocalización",
+  "name": "PWA GeolocalizaciÃ³n",
   "short_name": "GeoPWA",
-  "start_url": "/",
+  "start_url": "/geolocalizacion/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
